@@ -51,7 +51,7 @@ La comunicazione tra client e server è gestita tramite **Java RMI (Remote Metho
 - L'avvio tramite doppio clic su .jar può causare problemi nel trovare i file. Preferibile avviare da terminale.
 - Simulazione client-server avviene sulla stessa macchina (non distribuito in rete).
 
-## 🚀 Avvio del 
+## 🚀 Avvio dell'applicazione
 
 ### 🔧 Avvio rapido (Windows)
 
