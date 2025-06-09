@@ -7,7 +7,7 @@
 
 Una volta effettuato l’accesso, il sistema consente di visualizzare le temperature relative a un’area specifica tramite una semplice ricerca localizzata.
 
-## CONTENUTO:
+## 📁 CONTENUTO:
 
 - `Server.jar` – File eseguibile per il server
 - `Client.jar` – File eseguibile per il client
