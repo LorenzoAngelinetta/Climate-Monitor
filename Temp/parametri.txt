@@ -1,0 +1,25 @@
+Centro 1;3173435;2023-05-18 10:00:49;2;Bassa;1;Bassissima;1; ;4;Afoso;1;Non piove da tempo;2; ;2; 
+Centro 1;5182733;2023-05-18 10:00:49;5;Allerta vento;5;Umidità molto alta;4; ;2;Fa freddo;5; ;1; ;1; 
+Centro 1;3178229;2023-05-18 10:00:49;5;Il vento è fortissimo;3; ;1; ;2; ;5;Piove intensamente;4; ;4; 
+Centro 2;2988507;2023-05-18 10:04:55;1;Non c'è;1; ;1; ;5;Fa molto caldo, temperatura estiva;1; ;2;Si stanno per sciogliere;1;Si stanno per sciogliere
+Centro 2;3173435;2023-05-18 10:04:55;3;Velocità di 30 km-h;5; ;1; ;1;Fa feddo;5;Alluvione;1; ;1; 
+Centro 1;3177526;2023-05-17 08:54:08;4;Tanto vento;1;Molto bassa;1; ;1; ;5;Piove da tanto;2; ;2; 
+Centro 2;3182227;2023-05-18 09:09:33;3;Vento abbastanza forte;2;Umidità nellla norma;3; ;3;Temperatura piacevole;1;Precipitazioni pressochè assenti;1; ;1; 
+Centro 5;3173435;2023-05-18 10:01:01;2;Vento scarso;4;Clima molto umido;3; ;2;Temperatura abbastanza bassa;4;Precipitazioni abbondanti;1; ;1; 
+Centro 6;2988507;2023-05-18 10:02:18;5;Fortissime raffiche ;1;Clima con umodità praticamente assente;1; ;4;Temperature alte;1;Precipitazioni assenti;1; ;1; 
+Centro 7;3173435;2023-05-18 10:04:07;5; ;2; ;3; ;2; ;4; ;1; ;1; 
+Centro 2;3173435;2023-05-18 10:04:53;2; ;3; ;2; ;5; ;5; ;1; ;1; 
+Centro 2;3173435;2023-05-18 10:08:06;5;Raffiche di vento molto forti;2;Umidità bassa;2;Pressione nella norma;3;Temperature medio-alte;1;Assenti;1; ;1; 
+Centro 5;3178229;2023-05-18 10:09:51;5;Vento molto forte;3;Umidità medio-alta;2; ;1;Molto basse;5;Temporali in atto;1; ;1; 
+Centro 6;3169070;2023-05-18 10:10:52;1;Vento assente;1;Molto bassa;2;Nella norma;4;Temperature alte ma piacevoli;1;assenti;1; ;1; 
+Centro 1;3177526;2023-05-18 10:12:49;4;Raffiche di vento forti;2; ;2; ;2;Abbastanza basse;1;Assenti;1; ;1; 
+Centro 5;3173435;2023-05-18 10:08:47;3; ;3; ;5;Molto alta;2;Nella media;1;Non piove da giorni;2; ;2;Solita situazione
+Centro 5;3178229;2023-05-18 10:08:47;5;C'è vento sul lago molto forte;4; ;2; ;3;Nonostante vento aria è calda;1; ;4;Nevicava da 5 gg;4;Nevicava da 5 gg
+Centro 4;2990969;2023-05-18 10:10:45;3; ;3; ;3; ;3; ;3; ;2; ;2; 
+Centro 4;3177540;2023-05-18 10:10:45;5;Alto;2; ;4;Pressione nella media;3;Media;3; ;4; ;4; 
+Centro 4;3173435;2023-05-18 10:10:45;4;Alto;5;Molto alta;2; ;1;Rischi di ammalarti con questa temperatura;5;Piove troppo, rischio esondazione;5;Siamo in inverno;5;Siamo in inverno
+Centro 1;3173435;2023-05-18 10:29:58;3; ;3;Medio;3;Medio;3;Medio;3;Medio;3; ;3;Medio
+Centro 1;3173435;2023-09-23 12:27:05;5;raffiche forti;3; ;3; ;3;Nella media;5;Diluvia forte;1; ;1; 
+Centro 1;3177526;2023-09-23 12:27:05;5;Tanto vento sul lago;1; ;1; ;1; ;1; ;3; ;3; 
+Centro 9;3182886;2023-09-23 12:38:31;2; ;2; ;2; ;1; ;2; ;1; ;4; 
+Centro 9;3182886;2023-09-23 12:39:21;5; ;5; ;1; ;1; ;2; ;1; ;3; 

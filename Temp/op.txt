@@ -1,0 +1,8 @@
+Mario;Rossi;1234567ABCDEFGHI;mario@gmail.com;10004;11111111;Centro 4
+Marco;Verdi;ABCDEFGHI1234567;marc@gmail.com;10005;11111111;Centro 1
+Alessandro;Verdi;LSSVRD79C01F205Q;Alessandroverdi@gmail.com;10006;01234567;Centro 5
+Gianluca;Rossi;GNLRSS69A15H501I;Gianlucarossi@gmail.com;10007;76543210;Centro 6
+Gianmarco;Bianchi;BNCGMR80A01A944J;Gianmarcobianchi@gmail.com;10008;22222222;Centro 7
+Arturo;Arancione;RNCRTR80A01E506W;Arturoarancione@gmail.com;10009;33333333;Centro 2
+Mauro;Ocra;CROLBT00A01C933U;Mauocra@gmail.com;10010;44444444;\N
+Federico;Neri;NGIINM97L38E197W;fede@gmail.com;10012;12345678;Centro 9

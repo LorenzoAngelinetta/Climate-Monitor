@@ -1,0 +1,9 @@
+Centro 1;Statale;1;22014;Dongo;Como
+Centro 2;Strada;7;23822;Bellano;Lecco
+Centro 3;Piazza;90;22000;Gravedona;Como
+Centro 4;Via;3;22014;Domaso;Como
+Centro 5;Via col vento;24;23822;Bellano;Lecco
+Centro 6;Via vittoria;47;20019;Milano;Milano
+Centro 7;Via del trionfo;88;22100;Como;Como
+Centro 8;Via dei giardini;27;40100;Bologna;Bologna
+Centro 9;Via Statale;56;00236;Roma;Roma
